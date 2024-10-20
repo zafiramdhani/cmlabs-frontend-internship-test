@@ -6,5 +6,5 @@
 - Open index.html with <strong>local server/live server</strong>.
 
 ### App example
-<img src='images/mobile.png' width='150px'>
 <img src='images/desktop.png' width='500px'>
+<img src='images/mobile.png' width='150px'>
